@@ -1,0 +1,2 @@
+- perttier giúp format code
+- eslint là cho tiêu chuẩn code, nên dùng gì (var, let, const, ...) sao cho hợp lý
